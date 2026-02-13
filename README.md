@@ -21,7 +21,7 @@ This repository demonstrates how **real-world DevOps teams** design, automate, a
 
 ---
 
-## 🎯 What You Will Learn
+## 🎯Learning Key Points
 
 ✔ How feature branches (`featureA`, `featureB`) are handled in CI/CD
 ✔ Pull Request (PR) based merge strategy using GitHub UI
