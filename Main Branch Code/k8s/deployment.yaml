@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: shopeasy
-        image: juhisinha/shopeasy:61
+        image: kastrov/multibranch-flask-app:build-61
         ports:
         - containerPort: 5000
