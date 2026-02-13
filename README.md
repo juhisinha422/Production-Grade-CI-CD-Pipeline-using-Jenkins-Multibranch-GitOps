@@ -69,40 +69,9 @@ LoadBalancer URL → Live Application
 | 🔄 **Argo CD**                      | GitOps-based Continuous Deployment              |
 | 🌐 **LoadBalancer Service**         | External Application Access                     |
 
----
-
-## 👥 Who Is This Project For?
-
-✅ DevOps Beginners & Intermediates
-✅ Jenkins Multibranch Pipeline Learners
-✅ Kubernetes & AWS EKS Users
-✅ DevOps Interview Preparation
-✅ CI/CD & GitOps Enthusiasts
 
 ---
-
-## 🎥 YouTube Video
-
-▶️ **Watch the complete step-by-step implementation here:**
-🔗 [https://youtu.be/1ecF4lKBlMo]
-
----
-
-## 🌐 Connect With Me
-
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/kastro-kiran/](https://www.linkedin.com/in/kastro-kiran/)
-* 💬 **WhatsApp DevOps Community:** [https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
-
----
-
-## ⭐ Support & Feedback
-
-If this project helped you:
-
-* ⭐ Star this repository
-* 🍴 Fork it and try your own improvements
-* 📢 Share it with fellow DevOps learners
 
 Happy Learning & Automating! 🚀
 
-— **Kastro Kiran**
+— **Juhi Sinha**
