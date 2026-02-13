@@ -76,6 +76,16 @@ LoadBalancer URL → Live Application
 | 🌐 **LoadBalancer Service**         | External Application Access                     |
 
 
+
+<img width="1873" height="906" alt="Image" src="https://github.com/user-attachments/assets/4aad0a82-ed76-4b58-a5cf-b98248c8a889" />
+
+<img width="1900" height="877" alt="image" src="https://github.com/user-attachments/assets/a0d635c2-9045-48fc-b90a-a7996a5e6585" />
+
+<img width="1588" height="506" alt="image" src="https://github.com/user-attachments/assets/594bce7b-c024-4698-88a8-1d720d0a9008" />
+
+<img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/12da0934-8b20-4808-985a-3f36a76c0462" />
+
+
 ---
 
 Happy Learning & Automating! 🚀
