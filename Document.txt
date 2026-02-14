@@ -84,7 +84,7 @@ sudo mv /tmp/eksctl /usr/local/bin
 eksctl version
 
 # Creation of Cluster
-eksctl create cluster --name juhi-cluster --region us-east-1 --node-type t2.medium  --zones us-east-1a,us-east-1b
+eksctl create cluster --name juhi-cluster --region us-east-1 --node-type t3.small  --zones us-east-1a,us-east-1b
 
 
 
@@ -100,7 +100,7 @@ aws sts get-caller-identity
 Configure kubeconfig
 aws eks update-kubeconfig \
   --region us-east-1 \
-  --name eks-cluster
+  --name juhi-cluster
 
 sudo mkdir -p /home/jenkins/.kube
 sudo cp /root/.kube/config /home/jenkins/.kube/config
@@ -200,7 +200,7 @@ Node Exporter Full
 
 JENKINS Pipeline
 
-.. Named branches get different properties.
+1.  Named branches get different properties.
 Jenkins lets you define rules per branch name.
 Common use case:
 
@@ -211,7 +211,7 @@ Common use case:
 Each branch can have different triggers, environments, credentials, or stages.
 -> Branch name decides what Jenkins does. 
 
-.. All branches get the same properties.
+2.  All branches get the same properties.
 Jenkins applies one common configuration to every branch.
 Whether it's main, dev, or feature-x, Jenkins:
 	runs the same pipeline
