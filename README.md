@@ -19,6 +19,10 @@ In this project 🎥, we build a **production-grade CI/CD pipeline** using:
 
 This repository demonstrates how **real-world DevOps teams** design, automate, and deploy applications from **code commit to live production** using modern DevOps best practices.
 
+This project demonstrates a production-grade CI/CD pipeline that implements modern DevOps practices using Jenkins Multibranch Pipeline, Docker containerization, Kubernetes orchestration, and GitOps principles with ArgoCD.
+
+The pipeline automates the entire software delivery lifecycle from code commit to production deployment, showcasing how enterprise teams build, test, and deploy applications efficiently and reliably.
+
 ---
 
 ## 🎯Learning Key Points
